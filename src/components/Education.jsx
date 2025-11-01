@@ -11,10 +11,10 @@ const Education = () => {
             <h2 ref={titleRef} className="section-title animated-element">Education</h2>
             <div className="education-timeline">
                 <div ref={item1Ref} className="education-item animated-element">
-                    [cite_start]<h3>Bachelor of Technology in Computer Science [cite: 8]</h3>
-                    <p><strong>Vellore Institute of Technology</strong> | [cite_start]Chennai, India [cite: 7, 14]</p>
-                    <p>Aug 2023 – Present | [cite_start]CGPA: 8.74/10 [cite: 9, 13]</p>
-                    [cite_start]<p><strong>Coursework:</strong> Data Structures and Algorithms, Design and Analysis of Algorithms, OOPS, Operating Systems, Computer Networks, Artificial Intelligence (In Progress), DBMS (SQL) (In Progress), Cloud [AWS] [cite: 16]</p>
+                   <h3>Bachelor of Technology in Computer Science </h3>
+                    <p><strong>Vellore Institute of Technology</strong> |Chennai, India </p>
+                    <p>Aug 2023 – Present |CGPA: 8.74/10 </p>
+                   <p><strong>Coursework:</strong> Data Structures and Algorithms, Design and Analysis of Algorithms, OOPS, Operating Systems, Computer Networks, Artificial Intelligence (In Progress), DBMS (SQL) (In Progress), Cloud [AWS] </p>
                 </div>
                 
             </div>

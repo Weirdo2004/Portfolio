@@ -12,20 +12,20 @@ const Achievements = () => {
             <h2 ref={titleRef} className="section-title animated-element">Achievements & Activities</h2>
             <div className="achievements-grid">
                 <div ref={card1Ref} className="achievement-card animated-element">
-                     <h3>Adobe PPI Opportunity Shortlist [cite: 36]</h3>
+                     <h3>Adobe PPI Opportunity Shortlist </h3>
                     <p>Shortlisted to the semi final round, among the 2L + participants.</p>
                 </div>
                 <div ref={card2Ref} className="achievement-card animated-element">
-                     <h3>Sponsorship and Outreach Lead [cite: 42]</h3>
-                     <p>Managed a team of over 20 students and connected with 1000+ companies for sponsorships and outreach from March 2025 to the present[cite: 43, 44].</p>
+                     <h3>Sponsorship and Outreach Lead </h3>
+                     <p>Managed a team of over 20 students and connected with 1000+ companies for sponsorships and outreach from March 2025 to the present.</p>
                 </div>
                 <div ref={card3Ref} className="achievement-card animated-element">
                     <h3>Machine Learning Specialization</h3>
-                     <p>Completed the Machine Learning Specialization offered by DeepLearning.AI and Stanford University, gaining certified skills in advanced ML[cite: 49].</p>
+                     <p>Completed the Machine Learning Specialization offered by DeepLearning.AI and Stanford University, gaining certified skills in advanced ML.</p>
                 </div>
                 <div ref={card4Ref} className="achievement-card animated-element">
                     <h3>Runner at Terry Fox Run</h3>
-                     <p>Participated in the 15th edition of the 3KM Terry Fox Run organized by the Rotary Club in October 2023, supporting cancer research[cite: 45, 46].</p>
+                     <p>Participated in the 15th edition of the 3KM Terry Fox Run organized by the Rotary Club in October 2023, supporting cancer research.</p>
                 </div>
             </div>
         </section>
